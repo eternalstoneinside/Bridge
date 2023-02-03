@@ -15,8 +15,7 @@ Documentation Here
 - [Bridge](eternalstoneinside.github.io/Bridge/)
 
 
-## Developers
+## Developer
 
 - [Orlenko Dmytro](https://github.com/eternalstoneinside)
 
-## License
